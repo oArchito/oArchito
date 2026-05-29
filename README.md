@@ -40,6 +40,6 @@ Full-stack e-commerce platform with Stripe payment integration.
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/archit-aggarwal-3b262528a/
-- LeetCode: https://leetcode.com/u/oARCHITo/
+- LinkedIn: [linkedIn](https://www.linkedin.com/in/archit-aggarwal-3b262528a/)
+- LeetCode: [LeetCode](https://leetcode.com/u/oARCHITo/)
 - Portfolio: COMING SOON

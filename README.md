@@ -20,6 +20,9 @@ AI-powered platform converting 2D floor plans into interactive 3D models.
 ### ExamGuard
 Secure online examination system with anti-cheat mechanisms and JWT authentication.
 
+### HR-Workflow Designer
+A complete, production-quality React application for building, editing, and simulating modular HR workflows.
+
 ### EasyShop
 Full-stack e-commerce platform with Stripe payment integration.
 

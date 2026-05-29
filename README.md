@@ -1,16 +1,16 @@
-# Hi, I'm Archit Aggarwal 👋
+# Hi, I'm Archit Aggarwal 
 
-🎓 B.Tech Electronics & Computer Engineering @ TIET  
-📊 CGPA: 8.69
+ B.Tech Electronics & Computer Engineering @ TIET  
+ CGPA: 8.69
 
 ## About Me
 
 Full Stack Developer (MERN) passionate about building scalable web applications and solving real-world problems.
 
-- 🌱 Currently learning System Design and Advanced MERN
-- 💻 Interested in Full Stack Development
-- 🧩 Solved 150+ LeetCode problems
-- 🚀 Building projects with React, Node.js, Express, MongoDB
+-  Currently learning System Design and Advanced MERN
+-  Interested in Full Stack Development
+-  Solved 150+ LeetCode problems
+-  Building projects with React, Node.js, Express, MongoDB
 
 ## Featured Projects
 
@@ -32,10 +32,11 @@ Full-stack e-commerce platform with Stripe payment integration.
 - MongoDB
 - MySQL
 - Git & GitHub
-- Selenium
+- Test Automation
+- System Design 
 
 ## Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- LeetCode: YOUR_LEETCODE
+- LinkedIn: https://www.linkedin.com/in/archit-aggarwal-3b262528a/
+- LeetCode: https://leetcode.com/u/oARCHITo/
 - Portfolio: COMING SOON

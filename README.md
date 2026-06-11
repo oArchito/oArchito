@@ -10,7 +10,7 @@ Full Stack Developer (MERN) passionate about building scalable web applications 
 
 -  Currently learning System Design and Advanced MERN
 -  Interested in Full Stack Development
--  Solved 150+ LeetCode problems
+-  Solved 200+ LeetCode problems
 -  Building projects with React, Node.js, Express, MongoDB
 
 ## Featured Projects

@@ -1,6 +1,6 @@
 # Hi, I'm Archit 👋
 
-B.Tech ECE @ TIET · CGPA 8.69 · Punjab, India
+B.Tech ENC @ TIET · CGPA 8.69 · Punjab, India
 
 I'm a full stack developer who got into web dev through the back door — started with C/C++ in ENC, ended up deep in React and Node. I like building things end-to-end and understanding how they scale. Currently getting into system design properly, not just the surface level stuff.
 

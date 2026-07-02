@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a final-year ENC student at Thapar Institute who builds full stack web applications. My focus is the MERN stack — I enjoy working across the entire product, from database design to UI. I'm currently going deeper into system design and cloud, and I've solved 200+ problems on LeetCode.
+I'm a final-year ENC student at Thapar Institute who builds full stack web applications. My focus is the MERN stack — I enjoy working across the entire product, from database design to UI. I'm currently going deeper into system design and cloud, and I've solved 300+ problems on LeetCode.
 
 I care about writing clean, maintainable code and building things that actually work in production, not just in demos.
 

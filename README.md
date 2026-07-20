@@ -1,7 +1,7 @@
 <h1 align="center">Archit Aggarwal</h1>
 
 <p align="center">
-  Full Stack Developer &nbsp;·&nbsp; B.Tech ENC @ TIET &nbsp;·&nbsp; CGPA 8.69
+  Full Stack Developer &nbsp;·&nbsp; B.Tech ENC @ TIET &nbsp;·&nbsp; CGPA 8.87
 </p>
 
 <p align="center">
